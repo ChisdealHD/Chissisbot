@@ -1,2 +1,2 @@
 # Chissisbot
-BADDEST BOT!
+WORST BOT!
