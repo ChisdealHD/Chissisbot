@@ -1,0 +1,2 @@
+'Do ${prefix}help for commands | ChisdealHD Subscriber: ${myyoutube.items[0].statistics.subscriberCount} Over ${myyoutube.items[0].statistics.viewCount} Viewers in Total'
+'Do ${prefix}help for commands | UBG Subscriber: ${ubg.items[0].statistics.subscriberCount} Over ${ubg.items[0].statistics.viewCount} Viewers in Total'
